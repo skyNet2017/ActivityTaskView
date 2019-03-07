@@ -11,10 +11,10 @@ public class AUtils {
 
     public static final int[] COLORS = {
             0x00000000,//onCreate
-            0x33ff0000,//onStart
-            0xffff0000,//onResume
+            0xff0000ff,//onStart
+            0xff7dc255,//onResume
 
-            0xff000000,//onPause
+            0xfff18e53,//onPause
             0x33000000,//onStop
             0x00000000//onDestroy
     };
